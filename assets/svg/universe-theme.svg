@@ -1,0 +1,15 @@
+<svg width="100%" height="100%" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="black"/>
+  <circle cx="150" cy="100" r="50" fill="yellow"/>
+  <circle cx="650" cy="450" r="40" fill="lightblue"/>
+  <circle cx="300" cy="300" r="70" fill="orange"/>
+  <circle cx="500" cy="200" r="30" fill="red"/>
+  <path d="M600,100 Q580,200 650,300 Q720,200 700,100 Q650,0 600,100" fill="none" stroke="white" stroke-width="2"/>
+  <circle cx="100" cy="500" r="5" fill="white"/>
+  <circle cx="200" cy="400" r="3" fill="white"/>
+  <circle cx="300" cy="600" r="4" fill="white"/>
+  <circle cx="400" cy="500" r="2" fill="white"/>
+  <circle cx="500" cy="400" r="3" fill="white"/>
+  <circle cx="600" cy="300" r="4" fill="white"/>
+  <circle cx="700" cy="200" r="5" fill="white"/>
+</svg>
